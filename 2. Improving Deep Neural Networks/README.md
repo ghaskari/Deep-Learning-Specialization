@@ -1,6 +1,6 @@
 # Improving Deep Neural Networks
 
-### Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization
+## Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization
 
 In the second course of the Deep Learning Specialization, you will open the deep learning black box to understand the processes that drive performance and generate good results systematically. 
 
